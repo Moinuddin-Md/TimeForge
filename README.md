@@ -16,7 +16,7 @@
 ## Tech Stack
 
 - **Frontend:**
-  - `HTML` for structure
+  - `HTML/JSP` for structure
   - `CSS` for styling
   - `JavaScript` for interactivity
 - **Backend:**
