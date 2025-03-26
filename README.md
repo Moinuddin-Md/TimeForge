@@ -93,11 +93,6 @@ This command will build and start the backend server.
 For IntelliJ IDEA, you can run the command in the terminal.
 
 For Eclipse or STS, you can right-click on the project and run it as a Spring Boot application.
-
-
-
-
-
 ---
 
-
+```
